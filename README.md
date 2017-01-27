@@ -1,2 +1,2 @@
 # webpackTest
-It's a test project
+It's a test project fo Angular 2
